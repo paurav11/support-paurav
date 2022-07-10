@@ -1,12 +1,12 @@
-html{
+html {
     margin: 0;
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background-image: url('https://source.unsplash.com/1600x900/?night,mountains');
+    background-image: url('https://source.unsplash.com/1600x900/?clouds');
     background-repeat: no-repeat;
     background-position: center, center;
-    background-size:cover;
+    background-size: cover;
 }
 
 body {
